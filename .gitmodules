@@ -1,0 +1,3 @@
+[submodule "plugin/test"]
+	path = plugin/test
+	url = https://github.com/vansinhit/test
